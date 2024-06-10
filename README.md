@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Tiwari</h1>
-<h3 align="center">An enthusiastic 3rd year (UG) student from India who loves working on websites and learning about machine learning.</h3>
+<h3 align="center">An enthusiastic Indian third-year undergraduate who enjoys learning about machine learning and developing websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-iitk&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-iitk" /> </p>
 
