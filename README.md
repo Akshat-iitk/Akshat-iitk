@@ -1,37 +1,84 @@
-<h1 align="center">Hi 👋, I'm Akshat Tiwari</h1>
-<h3 align="center">An enthusiastic Indian third-year undergraduate who enjoys learning about machine learning and developing websites.</h3>
+<h1 align="center">Akshat Tiwari</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-iitk&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-iitk" /> </p>
-
-- 🔭 I’m currently working on [CareerCraft](https://github.com/Akshat-iitk/CareerCraft)
-
-- 🌱 I’m currently learning **Node js , GSAP ...**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-akshat.netlify.app/#](https://portfolio-akshat.netlify.app/#)
-
-- 💬 Ask me about **React,Node,.....other web stuff**
-
-- 📫 How to reach me **akshatt21@iitk.ac.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Agf-5AYB39Qk6ocF1VLNTV6Q9R9fa4E1/view](https://drive.google.com/file/d/1Agf-5AYB39Qk6ocF1VLNTV6Q9R9fa4E1/view)
-
-- ⚡ Fun fact **I can be a little too hard working sometimes!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshat tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/akshat2k23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshat2k23" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akshat_2k22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshat_2k22" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/captain1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="captain1729" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/captain1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="captain1729" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akshatiitk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshatiitk" height="30" width="40" /></a>
+<p align="center">
+  <strong>Software Developer at Deutsche Bank · IIT Kanpur '25</strong><br>
+  Backend Engineering · Distributed Systems · Applied AI
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshat-tiwari-5a5617248/">LinkedIn</a> ·
+  <a href="mailto:akshatt2k3@gmail.com">Email</a> ·
+  <a href="https://portfolio-akshat.netlify.app/">Portfolio</a> ·
+  <a href="https://codeforces.com/profile/_theCopyNinja">Codeforces</a> ·
+  <a href="https://leetcode.com/u/captain1729/">LeetCode</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-iitk&show_icons=true&locale=en&layout=compact" alt="akshat-iitk" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-iitk&show_icons=true&locale=en" alt="akshat-iitk" /></p>
+I build backend services and AI tools that make complex data easier to use. My work spans **enterprise analytics, semantic search, secure APIs, and real-time developer tools**, with a focus on performance and reliability.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-iitk&" alt="akshat-iitk" /></p>
+I'm based in **Pune, India**, and graduated from **IIT Kanpur in 2025** with a B.Tech and a specialization in Artificial Intelligence and Machine Learning.
+
+## Engineering experience
+
+### Deutsche Bank · Software Developer
+
+**July 2025 – Present** · Backend, Data & Applied AI Platforms
+
+- **Enterprise analytics:** Built a GenAI platform with **Flask, Trino, and Cube.js**, enabling **500+ users** across divisions to query enterprise data in natural language.
+- **Text-to-SQL:** Developed an agentic copilot with metadata-aware retrieval, handling **5,000+ monthly queries** and reducing manual SQL generation time by **40%**.
+- **Data at scale:** Built vector ingestion pipelines processing **2 million financial documents daily**, with semantic search retrieval latency **under 100 ms**.
+- **Integration and reliability:** Built secure REST APIs integrating LLMs with **5+ banking applications**. Automated deployments with **Docker, Helm, and CI workflows**, maintaining **99.9% platform uptime**.
+- **AI quality:** Implemented LLMOps observability, model evaluation, and guardrails to monitor latency and improve response quality, achieving **98% factual accuracy**.
+
+**Previously — Software Development Intern at [Prepflix](https://prepflix.co.in/)** · May–June 2024  
+Optimized **React.js, Node.js, and REST API** workflows to reduce onboarding time by **30%**; delivered features with an Agile, cross-functional team supporting **1,000+ active users**.
+
+## Selected projects & mentorship
+
+### [CodeBaithak](https://code-baithak.vercel.app/) · Collaborative coding platform
+
+A developer tool for collaborative coding and technical interviews, adopted by **50+ engineers**.
+
+- Engineered event-driven state synchronization with **sub-50 ms updates** across concurrent sessions.
+- Built **Docker sandboxes and access controls** for secure, multi-language code execution.
+
+**Focus:** Event-driven systems · Concurrency · Remote code execution  
+[Open the app →](https://code-baithak.vercel.app/)
+
+### Itinerary Planner · Project Mentor, Programming Club, IIT Kanpur
+
+Built a serverless recommendation system covering **5,000+ locations**. Added monitoring for **500+ daily API requests** and reduced latency by **15%**.
+
+**Stack:** React · Python · AWS Lambda · FAISS
+
+### Computer Vision · Project Mentor, Electronics Club, IIT Kanpur
+
+Led a **15-member team** to train a **12-layer U-Net** on **10,000+ data points**, achieving **93% accuracy** and reducing model-convergence time by **30%**.
+
+**Stack:** PyTorch · U-Net · Convolutional neural networks
+
+[Explore my repositories →](https://github.com/Akshat-iitk?tab=repositories)
+
+## Technical toolkit
+
+| Area | Technologies & practices |
+| --- | --- |
+| **Languages** | Python, C++, Java, SQL, JavaScript, C#, Bash |
+| **Backend & web** | Flask, FastAPI, Node.js, React.js, REST APIs, microservices, API Gateway |
+| **Data & retrieval** | PostgreSQL, Trino, Cube.js, Qdrant, FAISS, vector search, JasperReports |
+| **Cloud & delivery** | AWS, AWS Lambda, Docker, Kubernetes, Helm, Linux, Git, CI/CD |
+| **Applied AI** | LangChain, LangGraph, PyTorch, TensorFlow, Transformers, NLP, computer vision, LLMOps |
+| **Observability & quality** | Prometheus, Grafana, model evaluation, unit testing, integration testing, code reviews |
+
+**Foundations:** Data structures and algorithms, object-oriented design, complexity analysis, operating systems, concurrency, distributed systems, relational databases, and fault-tolerant system design.
+
+## Competitive programming
+
+- **[Codeforces](https://codeforces.com/profile/_theCopyNinja):** Reached **Master (2128)**; global rank **28 among 20,000+ participants** in Round 948.
+- **[LeetCode](https://leetcode.com/u/captain1729/):** Achieved a rating of **1847**; global rank **126 among 32,000+ participants** in Weekly Contest 411.
+- **[CodeChef](https://www.codechef.com/users/akshat_2k22):** Reached a rating of **1709**.
+
+---
+
+Interested in **backend engineering, distributed systems, developer platforms, and applied AI**? Let's connect: **[akshatt2k3@gmail.com](mailto:akshatt2k3@gmail.com)**.
